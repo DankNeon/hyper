@@ -1,0 +1,23 @@
+{
+  name: "hyper-dank-neon",
+  version: "0.0.1",
+  description: "a danker, more neon theme for hyper",
+  license: "MIT",
+  repository: "DankNeon/hyper",
+  author: {
+    name: "Conlin Durbin",
+    email: "sup@wuz.fyi",
+    url: "wuz.fyi"
+  },
+  files: [
+    "index.js"
+  ],
+  keywords: [
+    "hyper",
+    "hyper-theme",
+    "terminal",
+    "term",
+    "theme",
+    "dank-neon"
+  ]
+}
